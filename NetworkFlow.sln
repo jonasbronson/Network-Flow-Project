@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetworkFlow", "NetworkFlow\NetworkFlow.csproj", "{642607B0-EB58-43B2-AFE1-3CB1E3916BE8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetworkFlow.Tests", "TestProject\NetworkFlow.Tests.csproj", "{2E3C6844-AA91-4BAC-8030-619BD16E0329}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{642607B0-EB58-43B2-AFE1-3CB1E3916BE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{642607B0-EB58-43B2-AFE1-3CB1E3916BE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{642607B0-EB58-43B2-AFE1-3CB1E3916BE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{642607B0-EB58-43B2-AFE1-3CB1E3916BE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E3C6844-AA91-4BAC-8030-619BD16E0329}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E3C6844-AA91-4BAC-8030-619BD16E0329}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E3C6844-AA91-4BAC-8030-619BD16E0329}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E3C6844-AA91-4BAC-8030-619BD16E0329}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FED1D4B8-32C9-4E41-B38A-88723BA29E49}
+	EndGlobalSection
+EndGlobal

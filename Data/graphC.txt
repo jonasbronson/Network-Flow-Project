@@ -1,0 +1,8 @@
+source,a,20
+source,b,2
+source,c,4
+c,sink,7
+a,sink,7
+b,sink,8
+b,c,3
+a,b,8
